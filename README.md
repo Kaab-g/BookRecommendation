@@ -19,27 +19,11 @@ Personalized Recommendations: Receive customized book recommendations based on y
 User-Friendly Interface: Our intuitive user interface makes it easy to discover new books and explore recommendations that match your interests.
 Multi-Criteria Filtering: Filter recommendations based on specific criteria such as genre, author, and rating to find exactly what you're looking for.
 Scalable Architecture: Our recommendation system is built on a scalable architecture, allowing it to handle large volumes of data and user interactions with ease.
-Get Started
-To get started with the Book Recommendation System, simply follow these steps:
-
-Clone the Repository: Clone this GitHub repository to your local machine.
-Install Dependencies: Install the necessary dependencies as specified in the project documentation.
-Run the Application: Launch the application and start exploring personalized book recommendations tailored just for you!
-Contributions
-We welcome contributions from the open-source community to help improve and enhance the Book Recommendation System. Whether you're interested in adding new features, optimizing algorithms, or fixing bugs, your contributions are invaluable in making our recommendation system even better.
-
-Feedback
-We value your feedback! If you have any suggestions, questions, or concerns regarding the Book Recommendation System, please don't hesitate to reach out to us. Your input helps us continuously improve and refine our system to better serve your needs.
-
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-Feel free to customize and expand upon this description to provide more details about your specific implementation and features.
-
-
-
-
-
 
 ![Screenshot 2024-05-02 095856](https://github.com/akanksharai01/Book-recommendation-system/assets/95882386/5262b28c-dd31-4145-86da-5fbbdb4ad3f1)
 ![Screenshot 2024-05-02 095836](https://github.com/akanksharai01/Book-recommendation-system/assets/95882386/028b93df-91bf-4730-a1f4-6d7811835255)
+
+Project By: (Github Referenced) & (Modifications)
+1. Kaab Gazdar
+2. Akanksha Rai
+3. Nabil Badan
